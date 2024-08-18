@@ -26,4 +26,4 @@ To install and run the HiLink-Travel App on your local system, follow these step
    ```bash
    npm start
 
-## Check out the live version of ChatNow [here](chatnow-jdr8row7f-ayushis-projects-ba4757d1.vercel.app).
+## Check out the live version of ChatNow https://chatnow-959enj5ke-ayushis-projects-ba4757d1.vercel.app/
