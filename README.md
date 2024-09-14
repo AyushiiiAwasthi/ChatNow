@@ -9,7 +9,7 @@ This project is built using:
 - **CSS**: For styling the user interface.
 
 ## Installation and Running Locally
-To install and run the HiLink-Travel App on your local system, follow these steps:
+To install and run the ChatNow App on your local system, follow these steps:
 
 1. **Clone the Repository**
    ```bash
